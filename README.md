@@ -1,5 +1,5 @@
-# 🧬 helix-nvim
-My implementation of Helix Editor (https://helix-editor.com) colorscheme for Neovim
+# helix-nvim
+Implementation of Helix Editor (https://helix-editor.com) colorscheme for Neovim
 
 ## Installation
 
@@ -7,10 +7,10 @@ My implementation of Helix Editor (https://helix-editor.com) colorscheme for Neo
 
 ```lua
 -- using packer.nvim
-use {'oneslash/helix-nvim', tag = "*"}
+use {'ljie-PI/helix-nvim', tag = "*"}
 
 -- using lazy.nvim
-{'oneslash/helix-nvim', version = "*"}
+{'ljie-PI/helix-nvim', version = "*"}
 
 ```
 
