@@ -3,7 +3,7 @@ local M = {}
 function M.highlight(palette, opts)
   return {
     BufferLineBufferVisible = { fg = palette.lavender, bg = palette.bg },
-    BufferLineBufferSelected = { fg = palette.apricot, bg = palette.revolver, bold = true },
+    BufferLineBufferSelected = { fg = palette.lilac, bg = palette.revolver, bold = true },
     BufferLineTab = { fg = palette.lilac, bg = palette.bg },
     BufferLineTabSelected = { fg = palette.white, bg = palette.revolver },
     BufferLineTabClose = { fg = palette.apricot, bg = palette.bg },

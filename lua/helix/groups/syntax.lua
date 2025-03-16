@@ -41,7 +41,7 @@ function M.highlight(palette, opts)
     Tag = { fg = palette.almond, bg = palette.none },
     Delimiter = { fg = palette.lavender, bg = palette.none },
     SpecialComment = { fg = palette.sirocco, bg = palette.none },
-    Debug = { fg = "#634450", bg = palette.none },
+    Debug = { fg = palette.comet, bg = palette.none },
 
     Error = { fg = palette.apricot, bg = palette.none },
     Ignore = { fg = palette.sirocco, bg = palette.orange },
